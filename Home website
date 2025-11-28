@@ -138,7 +138,7 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <img src="home.JPG" alt="Family Photo">
+        <img src="home1.JPG" alt="Family Photo">
         <h2>Hello & Welcome!</h2>
         <p>
             We�re the Musya's family � a family that loves adventures, cozy weekends,
@@ -156,16 +156,16 @@
                 <img src="rose.JPG" alt="Rosemary Lucky">
                 <h3>Rosemary Lucky</h3>
                 <p>Mom � Loves cooking, gardening, and photography.</p>
-                <p>Email: <a href="mailto:rosemary@example.com">rosemary@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567890">+123 456 7890</a></p>
+                <p>Email: <a href="mailto:roselucky961@gmail.com">roselucky961@gmail.com</a></p>
+                <p>Phone: <a href="tel:+254708172352">+254708172352</a></p>
             </div>
 
             <div class="card">
                 <img src="harrison.JPG" alt="Musya Musau">
                 <h3>Musya Musau</h3>
                 <p>Dad � Tech enthusiast, cyclist, and coffee lover.</p>
-                <p>Email: <a href="mailto:musya@example.com">musya@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567891">+123 456 7891</a></p>
+                <p>Email: <a href="mailto:hmusaumusya@gmail.com">hmusaumusya@gmail.com</a></p>
+                <p>Phone: <a href="tel:+254705333822">+254705333822</a></p>
             </div>
 
             <div class="card">
@@ -173,31 +173,31 @@
                 <h3>Brenda Musya</h3>
                 <p>Daughter � Artist, reader, and animal enthusiast.</p>
                 <p>Email: <a href="mailto:brenda@example.com">brenda@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567892">+123 456 7892</a></p>
+                <p>Phone: <a href="tel:+25490340867">+254790340867</a></p>
             </div>
 
             <div class="card">
                 <img src="flo.JPG" alt="Florence Musya">
                 <h3>Florence Musya</h3>
                 <p>Daughter � Bright, joyful, and full of creativity.</p>
-                <p>Email: <a href="mailto:florence@example.com">florence@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567893">+123 456 7893</a></p>
+                <p>Email: <a href="mailto:musyaflorence04@gmail.com">musyaflorence04@gmail.com</a></p>
+                <p>Phone: <a href="tel:+254117546684">+254117546684</a></p>
             </div>
 
             <div class="card">
                 <img src="noel.JPG" alt="Noel Musya">
                 <h3>Noel Musya</h3>
                 <p>Son � Kind-hearted, playful, and full of bright ideas.</p>
-                <p>Email: <a href="mailto:noel@example.com">noel@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567894">+123 456 7894</a></p>
+                <p>Email: <a href="mailto:musyanoel85@gmail.com">musyanoel85@gmail.com</a></p>
+                <p>Phone: <a href="tel:+254794463885">+25494463885</a></p>
             </div>
 
             <div class="card">
                 <img src="vee.JPG" alt="Viola Musya">
                 <h3>Viola Musya</h3>
-                <p>Son � Kind-hearted, playful, and full of bright ideas.</p>
-                <p>Email: <a href="mailto:noel@example.com">noel@example.com</a></p>
-                <p>Phone: <a href="tel:+1234567894">+123 456 7894</a></p>
+                <p>Daughter � Kind-hearted, playful, and full of bright ideas.</p>
+                <p>Email: <a href="mailto:violamusya01@gmail.com">violamusya01@gmail.com</a></p>
+                <p>Phone: <a href="tel:+25469477292">+25469477292</a></p>
             </div>
             
         </div>
@@ -205,7 +205,7 @@
 
     <!-- Footer -->
     <footer>
-        � 2025 The Musya's Family � Built with love ??
+        � 2025 The Musya's Family � Built with love &copy copyright 2025
     </footer>
 
 </body>
