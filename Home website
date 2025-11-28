@@ -138,7 +138,7 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <img src="https://via.placeholder.com/240" alt="Family Photo">
+        <img src="home.JPG" alt="Family Photo">
         <h2>Hello & Welcome!</h2>
         <p>
             We�re the Musya's family � a family that loves adventures, cozy weekends,
@@ -153,7 +153,7 @@
 
         <div class="members">
             <div class="card">
-                <img src="https://via.placeholder.com/260" alt="Rosemary Lucky">
+                <img src="rose.JPG" alt="Rosemary Lucky">
                 <h3>Rosemary Lucky</h3>
                 <p>Mom � Loves cooking, gardening, and photography.</p>
                 <p>Email: <a href="mailto:rosemary@example.com">rosemary@example.com</a></p>
@@ -161,7 +161,7 @@
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/260" alt="Musya Musau">
+                <img src="harrison.JPG" alt="Musya Musau">
                 <h3>Musya Musau</h3>
                 <p>Dad � Tech enthusiast, cyclist, and coffee lover.</p>
                 <p>Email: <a href="mailto:musya@example.com">musya@example.com</a></p>
@@ -169,7 +169,7 @@
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/260" alt="Brenda Musya">
+                <img src="brenda.JPG" alt="Brenda Musya">
                 <h3>Brenda Musya</h3>
                 <p>Daughter � Artist, reader, and animal enthusiast.</p>
                 <p>Email: <a href="mailto:brenda@example.com">brenda@example.com</a></p>
@@ -177,7 +177,7 @@
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/260" alt="Florence Musya">
+                <img src="flo.JPG" alt="Florence Musya">
                 <h3>Florence Musya</h3>
                 <p>Daughter � Bright, joyful, and full of creativity.</p>
                 <p>Email: <a href="mailto:florence@example.com">florence@example.com</a></p>
@@ -185,12 +185,21 @@
             </div>
 
             <div class="card">
-                <img src="https://via.placeholder.com/260" alt="Noel Musya">
+                <img src="noel.JPG" alt="Noel Musya">
                 <h3>Noel Musya</h3>
                 <p>Son � Kind-hearted, playful, and full of bright ideas.</p>
                 <p>Email: <a href="mailto:noel@example.com">noel@example.com</a></p>
                 <p>Phone: <a href="tel:+1234567894">+123 456 7894</a></p>
             </div>
+
+            <div class="card">
+                <img src="vee.JPG" alt="Viola Musya">
+                <h3>Viola Musya</h3>
+                <p>Son � Kind-hearted, playful, and full of bright ideas.</p>
+                <p>Email: <a href="mailto:noel@example.com">noel@example.com</a></p>
+                <p>Phone: <a href="tel:+1234567894">+123 456 7894</a></p>
+            </div>
+            
         </div>
     </section>
 
